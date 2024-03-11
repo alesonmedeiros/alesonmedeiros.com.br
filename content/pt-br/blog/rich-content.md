@@ -1,6 +1,7 @@
 ---
 author: "Hugo Authors"
 title: "Rich Content"
+draft: true
 date: 2021-07-13
 description: "A brief description of Hugo Shortcodes"
 tags: ["shortcodes", "privacy"]

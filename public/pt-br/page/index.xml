@@ -6,14 +6,14 @@
     <description>Recent content in Pages on Áleson Medeiros | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 15 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pt-br/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me</title>
+      <title>Sobre Mim</title>
       <link>http://localhost:1313/pt-br/page/about/</link>
-      <pubDate>Thu, 15 Jul 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/page/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark https://github.</description>
+      <description>Bem-vindo ao www.alesonmedeiros.com.br !&#xA;Sou Aleson Medeiros, um entusiasta de tecnologia apaixonado por explorar os intricados caminhos do universo digital. Seja bem-vindo ao meu cantinho virtual, onde compartilho minhas jornadas no vasto mundo da informática.&#xA;Meu coração bate forte pelo Linux, e sou um dedicado aprendiz das nuances desse sistema operacional de código aberto. Além disso, estou imerso no fascinante universo do Asterisk, SQL e Delphi, aprimorando minhas habilidades e construindo um conhecimento sólido nesses campos.</description>
     </item>
   </channel>
 </rss>

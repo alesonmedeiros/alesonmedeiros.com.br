@@ -1,6 +1,7 @@
 ---
 author: "Hugo Authors"
 title: "Placeholder Text"
+draft: true
 date: 2021-07-13
 description: "Lorem Ipsum Dolor Si Amet"
 tags: ["markdown", "text"]

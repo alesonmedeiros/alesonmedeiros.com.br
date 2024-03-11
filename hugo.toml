@@ -12,7 +12,7 @@ DefaultContentLanguageInSubdir = true
     languageName = "Português Brasileiro"
     [languages.pt-br.params]
       introTitle = "Áleson Medeiros"
-      introSubtitle = "Suporte Pleno, Entusiasta de Tecnologia"
+      introSubtitle = "Entusiasta de Tecnologias e outras coisas"
       introPhoto = "/picture.jpg"
       logo = "/Logo-xl.png"
     [[languages.pt-br.menu.main]]

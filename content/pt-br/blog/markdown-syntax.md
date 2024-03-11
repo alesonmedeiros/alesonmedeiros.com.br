@@ -1,6 +1,7 @@
 ---
 author: "Hugo Authors"
 title: "Markdown Syntax Guide"
+draft: true
 description: "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 tags: ["markdown", "css", "html"]
 date: 2021-07-14
