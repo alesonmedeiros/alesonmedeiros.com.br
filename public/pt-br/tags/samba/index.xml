@@ -1,26 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Áleson Medeiros | Blog</title>
-    <link>http://localhost:1313/pt-br/</link>
-    <description>Recent content on Áleson Medeiros | Blog</description>
+    <title>Samba on Áleson Medeiros | Blog</title>
+    <link>http://localhost:1313/pt-br/tags/samba/</link>
+    <description>Recent content in Samba on Áleson Medeiros | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pt-br/tags/samba/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Montando Compartilhamentos de Rede Windows no Linux: Um Guia Prático</title>
       <link>http://localhost:1313/pt-br/blog/compatilhamento-samba/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/blog/compatilhamento-samba/</guid>
       <description>Se você já se deparou com a necessidade de acessar diretórios compartilhados do Windows em seu servidor Linux, certamente sabe que pode ser uma tarefa desafiadora. Este tutorial foi criado para simplificar esse processo, guiando você passo a passo na montagem de compartilhamentos de rede Windows (CIFS ou SMBFS) no seu ambiente Linux. Vamos direto ao ponto!&#xA;Requisitos: Antes de começarmos, certifique-se de ter os seguintes requisitos:&#xA;Acesso root no Linux.</description>
-    </item>
-    <item>
-      <title>Sobre Mim</title>
-      <link>http://localhost:1313/pt-br/page/about/</link>
-      <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/page/about/</guid>
-      <description>Bem-vindo ao www.alesonmedeiros.com.br !&#xA;Sou Aleson Medeiros, um entusiasta de tecnologia apaixonado por explorar os intricados caminhos do universo digital. Seja bem-vindo ao meu cantinho virtual, onde compartilho minhas jornadas no vasto mundo da informática.&#xA;Meu coração bate forte pelo Linux, e sou um dedicado aprendiz das nuances desse sistema operacional de código aberto. Além disso, estou imerso no fascinante universo do Asterisk, SQL e Delphi, aprimorando minhas habilidades e construindo um conhecimento sólido nesses campos.</description>
     </item>
   </channel>
 </rss>

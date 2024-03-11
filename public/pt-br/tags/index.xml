@@ -6,6 +6,28 @@
     <description>Recent content in Tags on Áleson Medeiros | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
+    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cifs</title>
+      <link>http://localhost:1313/pt-br/tags/cifs/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/cifs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Samba</title>
+      <link>http://localhost:1313/pt-br/tags/samba/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/samba/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Smbfs</title>
+      <link>http://localhost:1313/pt-br/tags/smbfs/</link>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/smbfs/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
