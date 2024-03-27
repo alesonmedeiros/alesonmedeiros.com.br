@@ -6,8 +6,29 @@
     <description>Recent content in Tags on Áleson Medeiros | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chromebook</title>
+      <link>http://localhost:1313/pt-br/tags/chromebook/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/chromebook/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Formatação</title>
+      <link>http://localhost:1313/pt-br/tags/formata%C3%A7%C3%A3o/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/formata%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Windows</title>
+      <link>http://localhost:1313/pt-br/tags/windows/</link>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/windows/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Cifs</title>
       <link>http://localhost:1313/pt-br/tags/cifs/</link>
