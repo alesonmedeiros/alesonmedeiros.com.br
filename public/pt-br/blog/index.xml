@@ -4,10 +4,17 @@
     <title>Blog on Áleson Medeiros | Blog</title>
     <link>http://localhost:1313/pt-br/blog/</link>
     <description>Recent content in Blog on Áleson Medeiros | Blog</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pt-br/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Desbravando o Mundo das ISOs Personalizadas com Penguins&#39; Eggs</title>
+      <link>http://localhost:1313/pt-br/blog/penguin-eggs/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/blog/penguin-eggs/</guid>
+      <description>No vasto universo do Linux, personalizar e criar sua própria distribuição pode parecer uma tarefa complexa e desafiadora. Entretanto, a ferramenta Penguins&amp;amp;rsquo; Eggs surge como uma solução inovadora para simplificar esse processo, permitindo que usuários criem suas ISOs de instalação com base em clones de seus sistemas. Neste artigo, exploraremos como utilizar essa ferramenta, com enfoque especial no processo para sistemas Debian, Devuan, Ubuntu e suas derivações.&#xA;Como Usar o Script: A utilização do Penguins&amp;rsquo; Eggs é tão intuitiva quanto eficiente.</description>
+    </item>
     <item>
       <title>Como Formatar um Chromebook HP e Instalar o Windows: Tutorial Passo a Passo</title>
       <link>http://localhost:1313/pt-br/blog/instalar-windows-chromebook/</link>
