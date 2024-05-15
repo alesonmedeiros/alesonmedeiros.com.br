@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Prompt on Áleson Medeiros | Blog</title>
+    <link>http://localhost:1313/pt-br/tags/prompt/</link>
+    <description>Recent content in Prompt on Áleson Medeiros | Blog</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pt-br/tags/prompt/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como instalar e configurar o Starship para o Bash no Ubuntu</title>
+      <link>http://localhost:1313/pt-br/blog/starship-no-linux/</link>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/blog/starship-no-linux/</guid>
+      <description>No vasto universo do Linux, personalizar e criar sua própria distribuição pode parecer uma tarefa complexa e desafiadora. Entretanto, a ferramenta Penguins&amp;amp;rsquo; Eggs surge como uma solução inovadora para simplificar esse processo, permitindo que usuários criem suas ISOs de instalação com base em clones de seus sistemas. Neste artigo, exploraremos como utilizar essa ferramenta, com enfoque especial no processo para sistemas Debian, Devuan, Ubuntu e suas derivações.&#xA;Como Usar o Script: A utilização do Penguins&amp;rsquo; Eggs é tão intuitiva quanto eficiente.</description>
+    </item>
+  </channel>
+</rss>
