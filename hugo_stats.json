@@ -34,6 +34,7 @@
       "section",
       "span",
       "stop",
+      "strong",
       "summary",
       "svg",
       "title",
@@ -184,6 +185,7 @@
     "ids": [
       "TableOfContents",
       "a",
+      "comandos-básicos-para-buscar-pacotes-e-instalar",
       "como-usar-o-script",
       "conclusão",
       "configurar-como-shell-principal-do-windows-terminal",
@@ -192,6 +194,7 @@
       "fixando-a-montagem",
       "instalação-de-fonte-do-nerdfonts-fantasque-sans-mono",
       "instalação-do-powershell-7",
+      "instalação-do-scoop",
       "instalação-do-starship",
       "montagem-manual",
       "passo-1-ativando-o-modo-desenvolvedor-do-chromebook-hp",
