@@ -60,6 +60,6 @@ scoop list
 scoop uninstall <nome_do_pacote>
 ```
 
-![Pacote fastfetch instalado pelo scoop](/instalar-scoop-04.png)
+![Pacote fastfetch instalado pelo scoop](/instalar-scoop-05.png)
 
 Com o Scoop instalado, você agora pode gerenciar software no Windows com facilidade. Este tutorial mostrou como instalar o Scoop e executar alguns comandos básicos para buscar e instalar pacotes. Explore mais comandos para aumentar sua produtividade com o Scoop!
