@@ -3,30 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/pt-br/</loc>
-    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pt-br/blog/</loc>
-    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/blog/startship-powershell/</loc>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/tags/packges/</loc>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/tags/powershell/</loc>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/tags/starship/</loc>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/tags/</loc>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/tags/terminal/</loc>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/tags/windows/</loc>
+    <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pt-br/blog/instalar-scoop/</loc>
     <lastmod>2024-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/packges/</loc>
-    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pt-br/tags/powershell/</loc>
-    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/pt-br/tags/scoop/</loc>
-    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pt-br/tags/</loc>
-    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pt-br/tags/terminal/</loc>
-    <lastmod>2024-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pt-br/tags/windows/</loc>
     <lastmod>2024-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pt-br/blog/instalar-powershell/</loc>
@@ -39,9 +45,6 @@
     <lastmod>2024-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pt-br/tags/rust/</loc>
-    <lastmod>2024-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pt-br/tags/starship/</loc>
     <lastmod>2024-05-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pt-br/tags/bash/</loc>
