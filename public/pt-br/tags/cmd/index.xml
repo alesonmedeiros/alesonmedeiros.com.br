@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cmd on Áleson Medeiros | Blog</title>
+    <link>http://localhost:1313/pt-br/tags/cmd/</link>
+    <description>Recent content in Cmd on Áleson Medeiros | Blog</description>
+    <generator>Hugo</generator>
+    <language>pt-br</language>
+    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pt-br/tags/cmd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como instalar e configurar o Starship para o CMD</title>
+      <link>http://localhost:1313/pt-br/blog/startship-no-cmd/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/blog/startship-no-cmd/</guid>
+      <description>O Starship é um prompt de shell rápido e personalizável, que pode ser usado tanto no PowerShell quanto no CMD. Neste tutorial, vamos mostrar como instalar e configurar o Starship para o CMD no Windows, utilizando o Clink para integrar o Starship ao CMD e aplicando o preset Gruvbox Rainbow.&#xA;Instalação do Starship Se você já instalou o Starship usando o Scoop no tutorial anterior, pode pular esta etapa. Caso contrário, siga estas instruções:</description>
+    </item>
+  </channel>
+</rss>

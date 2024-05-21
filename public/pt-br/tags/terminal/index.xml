@@ -6,14 +6,21 @@
     <description>Recent content in Terminal on Áleson Medeiros | Blog</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 19 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pt-br/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como instalar e configurar o Starship para o CMD</title>
+      <link>http://localhost:1313/pt-br/blog/startship-no-cmd/</link>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/blog/startship-no-cmd/</guid>
+      <description>O Starship é um prompt de shell rápido e personalizável, que pode ser usado tanto no PowerShell quanto no CMD. Neste tutorial, vamos mostrar como instalar e configurar o Starship para o CMD no Windows, utilizando o Clink para integrar o Starship ao CMD e aplicando o preset Gruvbox Rainbow.&#xA;Instalação do Starship Se você já instalou o Starship usando o Scoop no tutorial anterior, pode pular esta etapa. Caso contrário, siga estas instruções:</description>
+    </item>
     <item>
       <title>Como instalar e configurar o Starship para o PowerShell</title>
       <link>http://localhost:1313/pt-br/blog/startship-powershell/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/blog/startship-powershell/</guid>
-      <description>O Scoop é um gerenciador de pacotes para Windows, semelhante ao Homebrew no macOS. Com ele, é possível instalar e gerenciar uma variedade de software através da linha de comando. Neste tutorial, vamos mostrar como instalar o Scoop e usar comandos básicos para buscar e instalar pacotes.&#xA;Instalação do Scoop Para instalar o Scoop, siga estas etapas:&#xA;Abra o PowerShell como Administrador.&#xA;Digite o seguinte comando para instalar o Scoop:</description>
+      <description>O Starship é um prompt de shell rápido e personalizável, que proporciona uma experiência visualmente agradável e informativa no terminal. Neste tutorial, vamos mostrar como instalar e configurar o Starship para o PowerShell no Windows, incluindo a aplicação do preset Gruvbox Rainbow.&#xA;Instalação do Starship Para instalar o Starship, siga estas etapas:&#xA;Instalar o Starship com o Scoop:&#xA;Abra o PowerShell como Administrador.&#xA;Instale o Starship usando o comando&#xA;scoop install starship Criar e configurar o perfil do PowerShell:</description>
     </item>
     <item>
       <title>Como instalar e configurar o Scoop</title>

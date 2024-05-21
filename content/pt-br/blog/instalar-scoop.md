@@ -2,7 +2,7 @@
 author: "Áleson Medeiros"
 title: "Como instalar e configurar o Scoop"
 date: 2024-05-18
-description: "Descubra como instalar e usar o Scoop para gerenciar pacotes no Windows de forma eficiente via linha de comando."
+description: "Descubra como instalar e usar o Scoop para gerenciar pacotes no Windows de forma eficiente via linha de comando"
 draft: false
 tags: ["powershell", "Windows", "terminal", "scoop", "packges"]
 thumbnail: "/instalar-scoop-01.jpeg"
