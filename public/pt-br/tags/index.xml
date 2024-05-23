@@ -6,13 +6,13 @@
     <description>Recent content in Tags on Áleson Medeiros | Blog</description>
     <generator>Hugo</generator>
     <language>pt-br</language>
-    <lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Gallery</title>
-      <link>http://localhost:1313/pt-br/tags/gallery/</link>
+      <title>Eza</title>
+      <link>http://localhost:1313/pt-br/tags/eza/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/gallery/</guid>
+      <guid>http://localhost:1313/pt-br/tags/eza/</guid>
       <description></description>
     </item>
     <item>
@@ -20,13 +20,6 @@
       <link>http://localhost:1313/pt-br/tags/icons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/icons/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Powershell</title>
-      <link>http://localhost:1313/pt-br/tags/powershell/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/powershell/</guid>
       <description></description>
     </item>
     <item>
@@ -41,6 +34,27 @@
       <link>http://localhost:1313/pt-br/tags/terminal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/terminal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ubuntu</title>
+      <link>http://localhost:1313/pt-br/tags/ubuntu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gallery</title>
+      <link>http://localhost:1313/pt-br/tags/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/gallery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Powershell</title>
+      <link>http://localhost:1313/pt-br/tags/powershell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/powershell/</guid>
       <description></description>
     </item>
     <item>
@@ -97,13 +111,6 @@
       <link>http://localhost:1313/pt-br/tags/bash/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/bash/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Ubuntu</title>
-      <link>http://localhost:1313/pt-br/tags/ubuntu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/ubuntu/</guid>
       <description></description>
     </item>
     <item>

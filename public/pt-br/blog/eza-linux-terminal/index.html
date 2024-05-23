@@ -6,27 +6,42 @@
   <link rel="icon" href="/favicon.svg">
 
   <title>
-  Ubuntu - Áleson Medeiros | Blog
+  Como instalar e configurar o eza no Linux - Áleson Medeiros | Blog
   </title>
-  <meta name="description" content="" /><meta name="generator" content="Hugo 0.126.1">
+  <meta name="description" content="Substitua o comando ls pelo eza no Linux para uma listagem de arquivos avançada e visualmente aprimorada" />
+  <meta name="author" content="Áleson Medeiros" />
+  <meta name="generator" content="Hugo 0.126.1">
   <link rel="stylesheet" href="/css/styles.css" />
   
   
 
-  <link rel="alternate" type="application/rss+xml" href="http://localhost:1313/pt-br/tags/ubuntu/index.xml" title="Áleson Medeiros | Blog" />
-  <meta property="og:url" content="http://localhost:1313/pt-br/tags/ubuntu/">
+  <meta property="og:url" content="http://localhost:1313/pt-br/blog/eza-linux-terminal/">
   <meta property="og:site_name" content="Áleson Medeiros | Blog">
-  <meta property="og:title" content="Ubuntu">
+  <meta property="og:title" content="Como instalar e configurar o eza no Linux">
+  <meta property="og:description" content="Substitua o comando ls pelo eza no Linux para uma listagem de arquivos avançada e visualmente aprimorada">
   <meta property="og:locale" content="pt_br">
-  <meta property="og:type" content="website">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="blog">
+    <meta property="article:published_time" content="2024-05-22T00:00:00+00:00">
+    <meta property="article:modified_time" content="2024-05-22T00:00:00+00:00">
+    <meta property="article:tag" content="Icons">
+    <meta property="article:tag" content="Ubuntu">
+    <meta property="article:tag" content="Terminal">
+    <meta property="article:tag" content="Starship">
+    <meta property="article:tag" content="Eza">
 
   
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Ubuntu">
+  <meta name="twitter:title" content="Como instalar e configurar o eza no Linux">
+  <meta name="twitter:description" content="Substitua o comando ls pelo eza no Linux para uma listagem de arquivos avançada e visualmente aprimorada">
 
   
-  <meta itemprop="name" content="Ubuntu">
+  <meta itemprop="name" content="Como instalar e configurar o eza no Linux">
+  <meta itemprop="description" content="Substitua o comando ls pelo eza no Linux para uma listagem de arquivos avançada e visualmente aprimorada">
+  <meta itemprop="datePublished" content="2024-05-22T00:00:00+00:00">
   <meta itemprop="dateModified" content="2024-05-22T00:00:00+00:00">
+  <meta itemprop="wordCount" content="312">
+  <meta itemprop="keywords" content="Icons,Ubuntu,Terminal,Starship,Eza">
 
   
 </head>
@@ -77,21 +92,17 @@
   </ul>
 </header>
 <main class="flex-1">
-
-  <h1 class="container px-6 pt-6 mx-auto text-3xl font-bold">Ubuntu</h1>
+  
+  
 
   
-  <div class="container p-6 mx-auto grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 lg:gap-8">
-    <div class="p-2">
-<a href="http://localhost:1313/pt-br/blog/eza-linux-terminal/">
-  
-  <div class="relative">
-    <img src="/eza-linux-terminal-01.jpeg" alt="Como instalar e configurar o eza no Linux" class="rounded-lg shadow-sm w-full h-52 object-cover" />
+  <div class="relative max-w-5xl mx-auto px-4">
+    <img src="/eza-linux-terminal-01.jpeg" class="rounded-lg shadow-sm w-full object-contain" />
     
-    <div class="absolute top-4 right-4 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white text-sm px-2 py-0.5">
+    <div class="absolute top-4 right-8 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white px-2 py-0.5">
       
   
-    May 22, 24
+    May 22, 2024
   
 
 
@@ -99,42 +110,109 @@
     
   </div>
   
-  <div class="my-2 text-xl font-semibold">Como instalar e configurar o eza no Linux</div>
-  <div>Substitua o comando ls pelo eza no Linux para uma listagem de arquivos avançada e visualmente aprimorada</div>
-</a>
 
-  
+  <article class="prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4">
 
-</div>
-<div class="p-2">
-<a href="http://localhost:1313/pt-br/blog/starship-no-linux/">
-  
-  <div class="relative">
-    <img src="/penguin-prompt.jpeg" alt="Como instalar e configurar o Starship para o Bash no Ubuntu" class="rounded-lg shadow-sm w-full h-52 object-cover" />
+    <h1 class="text-2xl font-bold mb-2">Como instalar e configurar o eza no Linux</h1>
     
-    <div class="absolute top-4 right-4 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white text-sm px-2 py-0.5">
+    <h5 class="text-sm flex items-center flex-wrap">
+      <svg xmlns="http://www.w3.org/2000/svg" class="mr-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+        <rect x="4" y="5" width="16" height="16" rx="2" />
+        <line x1="16" y1="3" x2="16" y2="7" />
+        <line x1="8" y1="3" x2="8" y2="7" />
+        <line x1="4" y1="11" x2="20" y2="11" />
+        <rect x="8" y="15" width="2" height="2" />
+      </svg>
       
-  
-    May 15, 24
-  
-
-
-    </div>
+      
+        &nbsp;&bull;&nbsp;
+      
+      <svg xmlns="http://www.w3.org/2000/svg" class="mr-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+        <circle cx="12" cy="12" r="9" />
+        <polyline points="12 7 12 12 15 15" />
+      </svg>
+      2&nbsp;
+      &nbsp;&bull;
+      <svg xmlns="http://www.w3.org/2000/svg" class="mx-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+        <path d="M3 19a9 9 0 0 1 9 0a9 9 0 0 1 9 0" />
+        <path d="M3 6a9 9 0 0 1 9 0a9 9 0 0 1 9 0" />
+        <line x1="3" y1="6" x2="3" y2="19" />
+        <line x1="12" y1="6" x2="12" y2="19" />
+        <line x1="21" y1="6" x2="21" y2="19" />
+      </svg>
+      312&nbsp;
+      
+        
+      
+    </h5>
     
-  </div>
-  
-  <div class="my-2 text-xl font-semibold">Como instalar e configurar o Starship para o Bash no Ubuntu</div>
-  <div>Transforme o Bash no Ubuntu com o Starship, um prompt de shell customizável e eficiente</div>
-</a>
 
-  
+    <details id="TableOfContents" class="px-4 mt-4 bg-gray-100 dark:bg-gray-700 rounded toc">
+    <summary class="flex items-center font-bold py-2 px-4 cursor-pointer justify-between select-none text-black dark:text-white">
+      <span>Table of contents</span>
+      <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-chevron-down" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+        <polyline points="6 9 12 15 18 9"></polyline>
+     </svg>
+    </summary>
 
-</div>
+    <ul class="mt-2 pb-4">
+        
 
-  </div><div class="grid place-items-center mb-8">
-  
-</div>
-<div class="bg-blue-100 dark:bg-gray-900">
+        
+        <li>
+        <a href="#instala%c3%a7%c3%a3o-do-eza">Instalação do eza</a>
+        
+
+        
+        </li><li>
+        <a href="#configura%c3%a7%c3%a3o-do-alias-para-substituir-o-ls-por-eza">Configuração do alias para substituir o ls por eza</a>
+        </li></ul>
+  </details>
+
+    <p>O <code>eza</code> é um substituto moderno para o comando <code>ls</code>, com recursos avançados como cores, classificação por tipo de arquivo, ícones e outras melhorias. É uma excelente ferramenta para quem deseja aprimorar a experiência no terminal no Linux. Neste tutorial, vamos mostrar como instalar o <code>eza</code> e configurá-lo como substituto do comando <code>ls</code>, incluindo a criação de um alias.</p>
+<p><img alt="Instalação do eza" src="/eza-linux-terminal-05.png"></p>
+<h3 id="instalação-do-eza">Instalação do eza</h3>
+<p>Para instalar o <code>eza</code>, o método pode variar dependendo da sua distribuição Linux. Aqui estão algumas maneiras de instalá-lo em diferentes distribuições:</p>
+<ul>
+<li><strong>Ubuntu/Debian</strong>.</li>
+</ul>
+<ol>
+<li>Atualize a lista de pacotes:</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo apt update
+</span></span></code></pre></div><ol start="2">
+<li>Instale o <code>eza</code> a partir do repositório oficial:</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo apt install eza
+</span></span></code></pre></div><p><img alt="Instalação do eza" src="/eza-linux-terminal-02.png"></p>
+<h3 id="configuração-do-alias-para-substituir-o-ls-por-eza">Configuração do alias para substituir o ls por eza</h3>
+<p>Após instalar o eza, você pode configurá-lo para substituir o comando ls usando um alias. Isso torna o uso do eza mais intuitivo, pois você pode continuar digitando &ldquo;ls&rdquo; e receber a funcionalidade avançada do eza. Veja como configurar o alias:</p>
+<ol>
+<li>Abra seu arquivo de configuração do shell. Se estiver usando o Bash, pode ser o .bashrc ou .bash_profile. Se estiver usando o Zsh, pode ser o .zshrc. Para abrir o arquivo, use:</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>nano ~/.bashrc  <span style="color:#6272a4"># Para Bash</span>
+</span></span></code></pre></div><ol start="2">
+<li>Adicione o alias para substituir o ls pelo eza com opções adicionais:</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#8be9fd;font-style:italic">alias</span> <span style="color:#8be9fd;font-style:italic">ls</span><span style="color:#ff79c6">=</span><span style="color:#f1fa8c">&#39;eza -lha --icons&#39;</span>
+</span></span></code></pre></div><p><img alt="Instalação do eza" src="/eza-linux-terminal-03.png"></p>
+<ol start="3">
+<li>
+<p>Salve o arquivo e feche o editor de texto.</p>
+</li>
+<li>
+<p>Para aplicar as alterações, recarregue o arquivo de configuração ou reinicie seu terminal:</p>
+</li>
+</ol>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#8be9fd;font-style:italic">source</span> ~/.bashrc  <span style="color:#6272a4"># Para Bash</span>
+</span></span></code></pre></div><p><img alt="Instalação do eza" src="/eza-linux-terminal-04.png"></p>
+<p>Neste tutorial, você aprendeu como instalar o eza no Linux, uma ferramenta moderna para substituir o comando ls. Também viu como configurar um alias para usar o eza no lugar do ls, com opções adicionais para tornar a listagem de arquivos mais visual e informativa. Com esse alias, você pode usar o comando ls como de costume, mas com todos os recursos avançados do eza. Agora, você pode aproveitar uma experiência de terminal mais rica e eficaz!</p>
+
+  </article><div class="bg-blue-100 dark:bg-gray-900">
   <div class="container px-4 py-12 mx-auto max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
     <div>
       <div class="text-2xl font-bold mb-2">Me siga nas redes sociais</div>
