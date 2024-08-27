@@ -3,10 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/pt-br/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pt-br/blog/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/blog/configurar-openfortivpn-no-linux/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/tags/fortinet/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/tags/openfortivpn/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/tags/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/tags/terminal/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/tags/ubuntu/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt-br/tags/vpn/</loc>
+    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pt-br/blog/eza-linux-terminal/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
@@ -18,15 +39,6 @@
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pt-br/tags/starship/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pt-br/tags/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pt-br/tags/terminal/</loc>
-    <lastmod>2024-05-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pt-br/tags/ubuntu/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pt-br/blog/terminal-icons-powershell/</loc>

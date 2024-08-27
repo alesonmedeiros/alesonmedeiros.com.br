@@ -4,182 +4,203 @@
     <title>Tags on Áleson Medeiros | Blog</title>
     <link>http://localhost:1313/pt-br/tags/</link>
     <description>Recent content in Tags on Áleson Medeiros | Blog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pt-br/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Eza</title>
-      <link>http://localhost:1313/pt-br/tags/eza/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/eza/</guid>
+      <title>Fortinet</title>
+      <link>http://localhost:1313/pt-br/tags/fortinet/</link>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/fortinet/</guid>
       <description></description>
     </item>
     <item>
-      <title>Icons</title>
-      <link>http://localhost:1313/pt-br/tags/icons/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/icons/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Starship</title>
-      <link>http://localhost:1313/pt-br/tags/starship/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/tags/starship/</guid>
+      <title>Openfortivpn</title>
+      <link>http://localhost:1313/pt-br/tags/openfortivpn/</link>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/openfortivpn/</guid>
       <description></description>
     </item>
     <item>
       <title>Terminal</title>
       <link>http://localhost:1313/pt-br/tags/terminal/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/terminal/</guid>
       <description></description>
     </item>
     <item>
       <title>Ubuntu</title>
       <link>http://localhost:1313/pt-br/tags/ubuntu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vpn</title>
+      <link>http://localhost:1313/pt-br/tags/vpn/</link>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/vpn/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eza</title>
+      <link>http://localhost:1313/pt-br/tags/eza/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/eza/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Icons</title>
+      <link>http://localhost:1313/pt-br/tags/icons/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/icons/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Starship</title>
+      <link>http://localhost:1313/pt-br/tags/starship/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/tags/starship/</guid>
       <description></description>
     </item>
     <item>
       <title>Gallery</title>
       <link>http://localhost:1313/pt-br/tags/gallery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/gallery/</guid>
       <description></description>
     </item>
     <item>
       <title>Powershell</title>
       <link>http://localhost:1313/pt-br/tags/powershell/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/powershell/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows</title>
       <link>http://localhost:1313/pt-br/tags/windows/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/windows/</guid>
       <description></description>
     </item>
     <item>
       <title>Cmd</title>
       <link>http://localhost:1313/pt-br/tags/cmd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/cmd/</guid>
       <description></description>
     </item>
     <item>
       <title>Packges</title>
       <link>http://localhost:1313/pt-br/tags/packges/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/packges/</guid>
       <description></description>
     </item>
     <item>
       <title>Scoop</title>
       <link>http://localhost:1313/pt-br/tags/scoop/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/scoop/</guid>
       <description></description>
     </item>
     <item>
       <title>Nerdfonts</title>
       <link>http://localhost:1313/pt-br/tags/nerdfonts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/nerdfonts/</guid>
       <description></description>
     </item>
     <item>
       <title>Prompt</title>
       <link>http://localhost:1313/pt-br/tags/prompt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/prompt/</guid>
       <description></description>
     </item>
     <item>
       <title>Rust</title>
       <link>http://localhost:1313/pt-br/tags/rust/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/rust/</guid>
       <description></description>
     </item>
     <item>
       <title>Bash</title>
       <link>http://localhost:1313/pt-br/tags/bash/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/bash/</guid>
       <description></description>
     </item>
     <item>
       <title>Clone</title>
       <link>http://localhost:1313/pt-br/tags/clone/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/clone/</guid>
       <description></description>
     </item>
     <item>
       <title>Distro</title>
       <link>http://localhost:1313/pt-br/tags/distro/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/distro/</guid>
       <description></description>
     </item>
     <item>
       <title>Instável</title>
       <link>http://localhost:1313/pt-br/tags/inst%C3%A1vel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/inst%C3%A1vel/</guid>
       <description></description>
     </item>
     <item>
       <title>Iso</title>
       <link>http://localhost:1313/pt-br/tags/iso/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/iso/</guid>
       <description></description>
     </item>
     <item>
       <title>Penguin-Eggs</title>
       <link>http://localhost:1313/pt-br/tags/penguin-eggs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/penguin-eggs/</guid>
       <description></description>
     </item>
     <item>
       <title>Chromebook</title>
       <link>http://localhost:1313/pt-br/tags/chromebook/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/chromebook/</guid>
       <description></description>
     </item>
     <item>
       <title>Formatação</title>
       <link>http://localhost:1313/pt-br/tags/formata%C3%A7%C3%A3o/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/formata%C3%A7%C3%A3o/</guid>
       <description></description>
     </item>
     <item>
       <title>Cifs</title>
       <link>http://localhost:1313/pt-br/tags/cifs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/cifs/</guid>
       <description></description>
     </item>
     <item>
       <title>Samba</title>
       <link>http://localhost:1313/pt-br/tags/samba/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/samba/</guid>
       <description></description>
     </item>
     <item>
       <title>Smbfs</title>
       <link>http://localhost:1313/pt-br/tags/smbfs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt-br/tags/smbfs/</guid>
       <description></description>
     </item>

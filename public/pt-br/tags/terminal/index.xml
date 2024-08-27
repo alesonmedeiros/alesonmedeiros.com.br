@@ -4,10 +4,17 @@
     <title>Terminal on Áleson Medeiros | Blog</title>
     <link>http://localhost:1313/pt-br/tags/terminal/</link>
     <description>Recent content in Terminal on Áleson Medeiros | Blog</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pt-br/tags/terminal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como instalar e usar o Openfortivpn no Linux</title>
+      <link>http://localhost:1313/pt-br/blog/configurar-openfortivpn-no-linux/</link>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt-br/blog/configurar-openfortivpn-no-linux/</guid>
+      <description>Muitas empresas utilizam VPNs para permitir que funcionários e clientes acessem sua rede local de forma segura pela internet. Um dos provedores de VPN mais populares é a FortiNET, conhecida por seus produtos de segurança confiáveis e práticos.&#xA;No entanto, o aplicativo oficial FortiClient para Linux não permite a conexão direta a uma VPN. Por isso, muitos usuários recorrem a clientes alternativos. Após enfrentar alguns problemas com outras soluções, descobri o Openfortivpn, um cliente de código aberto para Fortinet que funciona de maneira eficiente.</description>
+    </item>
     <item>
       <title>Como instalar e configurar o eza no Linux</title>
       <link>http://localhost:1313/pt-br/blog/eza-linux-terminal/</link>

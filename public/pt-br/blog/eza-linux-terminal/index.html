@@ -10,38 +10,27 @@
   </title>
   <meta name="description" content="Substitua o comando ls pelo eza no Linux para uma listagem de arquivos avançada e visualmente aprimorada" />
   <meta name="author" content="Áleson Medeiros" />
-  <meta name="generator" content="Hugo 0.126.1">
+  <meta name="generator" content="Hugo 0.123.7">
   <link rel="stylesheet" href="/css/styles.css" />
   
   
 
-  <meta property="og:url" content="http://localhost:1313/pt-br/blog/eza-linux-terminal/">
-  <meta property="og:site_name" content="Áleson Medeiros | Blog">
-  <meta property="og:title" content="Como instalar e configurar o eza no Linux">
-  <meta property="og:description" content="Substitua o comando ls pelo eza no Linux para uma listagem de arquivos avançada e visualmente aprimorada">
-  <meta property="og:locale" content="pt_br">
-  <meta property="og:type" content="article">
-    <meta property="article:section" content="blog">
-    <meta property="article:published_time" content="2024-05-22T00:00:00+00:00">
-    <meta property="article:modified_time" content="2024-05-22T00:00:00+00:00">
-    <meta property="article:tag" content="Icons">
-    <meta property="article:tag" content="Ubuntu">
-    <meta property="article:tag" content="Terminal">
-    <meta property="article:tag" content="Starship">
-    <meta property="article:tag" content="Eza">
+  <meta property="og:title" content="Como instalar e configurar o eza no Linux" />
+<meta property="og:description" content="Substitua o comando ls pelo eza no Linux para uma listagem de arquivos avançada e visualmente aprimorada" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/pt-br/blog/eza-linux-terminal/" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2024-05-22T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-05-22T00:00:00+00:00" />
 
-  
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Como instalar e configurar o eza no Linux">
-  <meta name="twitter:description" content="Substitua o comando ls pelo eza no Linux para uma listagem de arquivos avançada e visualmente aprimorada">
 
-  
+  <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Como instalar e configurar o eza no Linux"/>
+<meta name="twitter:description" content="Substitua o comando ls pelo eza no Linux para uma listagem de arquivos avançada e visualmente aprimorada"/>
+
   <meta itemprop="name" content="Como instalar e configurar o eza no Linux">
-  <meta itemprop="description" content="Substitua o comando ls pelo eza no Linux para uma listagem de arquivos avançada e visualmente aprimorada">
-  <meta itemprop="datePublished" content="2024-05-22T00:00:00+00:00">
-  <meta itemprop="dateModified" content="2024-05-22T00:00:00+00:00">
-  <meta itemprop="wordCount" content="312">
-  <meta itemprop="keywords" content="Icons,Ubuntu,Terminal,Starship,Eza">
+<meta itemprop="description" content="Substitua o comando ls pelo eza no Linux para uma listagem de arquivos avançada e visualmente aprimorada"><meta itemprop="datePublished" content="2024-05-22T00:00:00+00:00" />
+<meta itemprop="dateModified" content="2024-05-22T00:00:00+00:00" />
+<meta itemprop="wordCount" content="312">
+<meta itemprop="keywords" content="icons,ubuntu,terminal,starship,eza," />
 
   
 </head>
@@ -190,13 +179,13 @@
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>sudo apt install eza
 </span></span></code></pre></div><p><img alt="Instalação do eza" src="/eza-linux-terminal-02.png"></p>
 <h3 id="configuração-do-alias-para-substituir-o-ls-por-eza">Configuração do alias para substituir o ls por eza</h3>
-<p>Após instalar o eza, você pode configurá-lo para substituir o comando ls usando um alias. Isso torna o uso do eza mais intuitivo, pois você pode continuar digitando &ldquo;ls&rdquo; e receber a funcionalidade avançada do eza. Veja como configurar o alias:</p>
+<p>Após instalar o <code>eza</code>, você pode configurá-lo para substituir o comando <code>ls</code> usando um alias. Isso torna o uso do <code>eza</code> mais intuitivo, pois você pode continuar digitando &ldquo;ls&rdquo; e receber a funcionalidade avançada do <code>eza</code>. Veja como configurar o alias:</p>
 <ol>
-<li>Abra seu arquivo de configuração do shell. Se estiver usando o Bash, pode ser o .bashrc ou .bash_profile. Se estiver usando o Zsh, pode ser o .zshrc. Para abrir o arquivo, use:</li>
+<li>Abra seu arquivo de configuração do shell. Se estiver usando o Bash, pode ser o <code>.bashrc</code> ou <code>.bash_profile</code>. Se estiver usando o Zsh, pode ser o <code>.zshrc</code>. Para abrir o arquivo, use:</li>
 </ol>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>nano ~/.bashrc  <span style="color:#6272a4"># Para Bash</span>
 </span></span></code></pre></div><ol start="2">
-<li>Adicione o alias para substituir o ls pelo eza com opções adicionais:</li>
+<li>Adicione o alias para substituir o <code>ls</code> pelo <code>eza</code> com opções adicionais:</li>
 </ol>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#8be9fd;font-style:italic">alias</span> <span style="color:#8be9fd;font-style:italic">ls</span><span style="color:#ff79c6">=</span><span style="color:#f1fa8c">&#39;eza -lha --icons&#39;</span>
 </span></span></code></pre></div><p><img alt="Instalação do eza" src="/eza-linux-terminal-03.png"></p>
@@ -210,7 +199,7 @@
 </ol>
 <div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#282a36;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#8be9fd;font-style:italic">source</span> ~/.bashrc  <span style="color:#6272a4"># Para Bash</span>
 </span></span></code></pre></div><p><img alt="Instalação do eza" src="/eza-linux-terminal-04.png"></p>
-<p>Neste tutorial, você aprendeu como instalar o eza no Linux, uma ferramenta moderna para substituir o comando ls. Também viu como configurar um alias para usar o eza no lugar do ls, com opções adicionais para tornar a listagem de arquivos mais visual e informativa. Com esse alias, você pode usar o comando ls como de costume, mas com todos os recursos avançados do eza. Agora, você pode aproveitar uma experiência de terminal mais rica e eficaz!</p>
+<p>Neste tutorial, você aprendeu como instalar o <code>eza</code> no Linux, uma ferramenta moderna para substituir o comando <code>ls</code>. Também viu como configurar um alias para usar o <code>eza</code> no lugar do <code>ls</code>, com opções adicionais para tornar a listagem de arquivos mais visual e informativa. Com esse alias, você pode usar o comando <code>ls</code> como de costume, mas com todos os recursos avançados do <code>eza</code>. Agora, você pode aproveitar uma experiência de terminal mais rica e eficaz!</p>
 
   </article><div class="bg-blue-100 dark:bg-gray-900">
   <div class="container px-4 py-12 mx-auto max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
@@ -698,9 +687,6 @@
 </footer>
 
 
-
-
-  
 
 
 
