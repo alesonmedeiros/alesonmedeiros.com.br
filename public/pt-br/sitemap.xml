@@ -2,138 +2,141 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pt-br/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alesonmedeiros.com.br/pt-br/blog/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alesonmedeiros.com.br/pt-br/blog/menu-contexto-completo-windows-11/</loc>
+    <lastmod>2024-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://alesonmedeiros.com.br/pt-br/blog/configurar-openfortivpn-no-linux/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/blog/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/fortinet/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/blog/configurar-openfortivpn-no-linux/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/openfortivpn/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/fortinet/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/openfortivpn/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/terminal/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/ubuntu/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/terminal/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/vpn/</loc>
     <lastmod>2024-08-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/ubuntu/</loc>
-    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pt-br/tags/vpn/</loc>
-    <lastmod>2024-08-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/pt-br/blog/eza-linux-terminal/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/blog/eza-linux-terminal/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/eza/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/eza/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/icons/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/icons/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/starship/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/starship/</loc>
     <lastmod>2024-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/blog/terminal-icons-powershell/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/blog/terminal-icons-powershell/</loc>
     <lastmod>2024-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/gallery/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/gallery/</loc>
     <lastmod>2024-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/powershell/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/powershell/</loc>
     <lastmod>2024-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/windows/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/windows/</loc>
     <lastmod>2024-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/cmd/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/cmd/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/blog/startship-no-cmd/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/blog/startship-no-cmd/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/packges/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/packges/</loc>
     <lastmod>2024-05-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/blog/startship-powershell/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/blog/startship-powershell/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/blog/instalar-scoop/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/blog/instalar-scoop/</loc>
     <lastmod>2024-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/scoop/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/scoop/</loc>
     <lastmod>2024-05-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/blog/instalar-powershell/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/blog/instalar-powershell/</loc>
     <lastmod>2024-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/nerdfonts/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/nerdfonts/</loc>
     <lastmod>2024-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/prompt/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/prompt/</loc>
     <lastmod>2024-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/rust/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/rust/</loc>
     <lastmod>2024-05-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/bash/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/bash/</loc>
     <lastmod>2024-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/blog/starship-no-linux/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/blog/starship-no-linux/</loc>
     <lastmod>2024-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/clone/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/clone/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/blog/penguin-eggs/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/blog/penguin-eggs/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/distro/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/distro/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/inst%C3%A1vel/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/inst%C3%A1vel/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/iso/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/iso/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/penguin-eggs/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/penguin-eggs/</loc>
     <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/chromebook/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/chromebook/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/blog/instalar-windows-chromebook/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/blog/instalar-windows-chromebook/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/formata%C3%A7%C3%A3o/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/formata%C3%A7%C3%A3o/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/cifs/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/cifs/</loc>
     <lastmod>2024-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/blog/compatilhamento-samba/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/blog/compatilhamento-samba/</loc>
     <lastmod>2024-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/samba/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/samba/</loc>
     <lastmod>2024-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/tags/smbfs/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/tags/smbfs/</loc>
     <lastmod>2024-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/page/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/page/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/page/about/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/page/about/</loc>
     <lastmod>2024-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/pt-br/categories/</loc>
+    <loc>https://alesonmedeiros.com.br/pt-br/categories/</loc>
   </url>
 </urlset>

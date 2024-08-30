@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bash on Áleson Medeiros | Blog</title>
-    <link>http://localhost:1313/pt-br/tags/bash/</link>
+    <link>https://alesonmedeiros.com.br/pt-br/tags/bash/</link>
     <description>Recent content in Bash on Áleson Medeiros | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 15 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-br/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alesonmedeiros.com.br/pt-br/tags/bash/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Como instalar e configurar o Starship para o Bash no Ubuntu</title>
-      <link>http://localhost:1313/pt-br/blog/starship-no-linux/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/starship-no-linux/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/starship-no-linux/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/starship-no-linux/</guid>
       <description>O Starship é um prompt de shell rápido, leve e altamente customizável, que fornece informações úteis e visualmente agradáveis diretamente no seu terminal. Neste tutorial, vamos mostrar como instalar e configurar o Starship para o Bash no Ubuntu, para que você possa personalizar e melhorar sua experiência no terminal.&#xA;Instalação do Starship: Para instalar o Starship, siga estas etapas:&#xA;Abra o terminal no Ubuntu.&#xA;Utilize o comando curl para baixar e executar o script de instalação do Starship:</description>
     </item>
   </channel>

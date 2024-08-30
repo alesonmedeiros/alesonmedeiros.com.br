@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gallery on Áleson Medeiros | Blog</title>
-    <link>http://localhost:1313/pt-br/tags/gallery/</link>
+    <link>https://alesonmedeiros.com.br/pt-br/tags/gallery/</link>
     <description>Recent content in Gallery on Áleson Medeiros | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Tue, 21 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-br/tags/gallery/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alesonmedeiros.com.br/pt-br/tags/gallery/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Como instalar e configurar o Terminal-Icons para o PowerShell</title>
-      <link>http://localhost:1313/pt-br/blog/terminal-icons-powershell/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/terminal-icons-powershell/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/terminal-icons-powershell/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/terminal-icons-powershell/</guid>
       <description>O Terminal-Icons é um módulo do PowerShell que adiciona ícones a diretórios e arquivos no terminal, facilitando a visualização e identificação. Com este módulo, você pode tornar a experiência no PowerShell mais visual e intuitiva. Neste tutorial, vamos mostrar como instalar e configurar o Terminal-Icons para o PowerShell.&#xA;Instalação do Terminal-Icons Para instalar o Terminal-Icons, siga estas etapas:&#xA;Abra o PowerShell como Administrador.&#xA;Para instalar o módulo, use o PowerShell Gallery, que é um repositório de módulos para o PowerShell.</description>
     </item>
   </channel>

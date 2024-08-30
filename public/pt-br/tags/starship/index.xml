@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Starship on Áleson Medeiros | Blog</title>
-    <link>http://localhost:1313/pt-br/tags/starship/</link>
+    <link>https://alesonmedeiros.com.br/pt-br/tags/starship/</link>
     <description>Recent content in Starship on Áleson Medeiros | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-br/tags/starship/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alesonmedeiros.com.br/pt-br/tags/starship/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Como instalar e configurar o eza no Linux</title>
-      <link>http://localhost:1313/pt-br/blog/eza-linux-terminal/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/eza-linux-terminal/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/eza-linux-terminal/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/eza-linux-terminal/</guid>
       <description>O eza é um substituto moderno para o comando ls, com recursos avançados como cores, classificação por tipo de arquivo, ícones e outras melhorias. É uma excelente ferramenta para quem deseja aprimorar a experiência no terminal no Linux. Neste tutorial, vamos mostrar como instalar o eza e configurá-lo como substituto do comando ls, incluindo a criação de um alias.&#xA;Instalação do eza Para instalar o eza, o método pode variar dependendo da sua distribuição Linux.</description>
     </item>
     <item>
       <title>Como instalar e configurar o Terminal-Icons para o PowerShell</title>
-      <link>http://localhost:1313/pt-br/blog/terminal-icons-powershell/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/terminal-icons-powershell/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/terminal-icons-powershell/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/terminal-icons-powershell/</guid>
       <description>O Terminal-Icons é um módulo do PowerShell que adiciona ícones a diretórios e arquivos no terminal, facilitando a visualização e identificação. Com este módulo, você pode tornar a experiência no PowerShell mais visual e intuitiva. Neste tutorial, vamos mostrar como instalar e configurar o Terminal-Icons para o PowerShell.&#xA;Instalação do Terminal-Icons Para instalar o Terminal-Icons, siga estas etapas:&#xA;Abra o PowerShell como Administrador.&#xA;Para instalar o módulo, use o PowerShell Gallery, que é um repositório de módulos para o PowerShell.</description>
     </item>
     <item>
       <title>Como instalar e configurar o Starship para o CMD</title>
-      <link>http://localhost:1313/pt-br/blog/startship-no-cmd/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/startship-no-cmd/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/startship-no-cmd/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/startship-no-cmd/</guid>
       <description>O Starship é um prompt de shell rápido e personalizável, que pode ser usado tanto no PowerShell quanto no CMD. Neste tutorial, vamos mostrar como instalar e configurar o Starship para o CMD no Windows, utilizando o Clink para integrar o Starship ao CMD e aplicando o preset Gruvbox Rainbow.&#xA;Instalação do Starship Se você já instalou o Starship usando o Scoop no tutorial anterior, pode pular esta etapa. Caso contrário, siga estas instruções:</description>
     </item>
     <item>
       <title>Como instalar e configurar o Starship para o PowerShell</title>
-      <link>http://localhost:1313/pt-br/blog/startship-powershell/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/startship-powershell/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/startship-powershell/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/startship-powershell/</guid>
       <description>O Starship é um prompt de shell rápido e personalizável, que proporciona uma experiência visualmente agradável e informativa no terminal. Neste tutorial, vamos mostrar como instalar e configurar o Starship para o PowerShell no Windows, incluindo a aplicação do preset Gruvbox Rainbow.&#xA;Instalação do Starship Para instalar o Starship, siga estas etapas:&#xA;Instalar o Starship com o Scoop:&#xA;Abra o PowerShell como Administrador.&#xA;Instale o Starship usando o comando&#xA;scoop install starship Criar e configurar o perfil do PowerShell:</description>
     </item>
     <item>
       <title>Como instalar e configurar o PowerShell no formato MSI</title>
-      <link>http://localhost:1313/pt-br/blog/instalar-powershell/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/instalar-powershell/</link>
       <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/instalar-powershell/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/instalar-powershell/</guid>
       <description>O PowerShell é uma poderosa ferramenta de linha de comando e linguagem de script para automatizar tarefas no Windows. A versão mais recente, PowerShell 7, traz diversas melhorias e recursos. Neste tutorial, vamos mostrar como instalar o PowerShell 7 usando o formato MSI, configurá-lo como o shell principal do Windows Terminal e adicionar uma fonte personalizada para melhorar a aparência do terminal.&#xA;Download (MSI) Para começar, acesse o site oficial do PowerShell para baixar o arquivo MSI da versão mais recente.</description>
     </item>
     <item>
       <title>Como instalar e configurar o Starship para o Bash no Ubuntu</title>
-      <link>http://localhost:1313/pt-br/blog/starship-no-linux/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/starship-no-linux/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/starship-no-linux/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/starship-no-linux/</guid>
       <description>O Starship é um prompt de shell rápido, leve e altamente customizável, que fornece informações úteis e visualmente agradáveis diretamente no seu terminal. Neste tutorial, vamos mostrar como instalar e configurar o Starship para o Bash no Ubuntu, para que você possa personalizar e melhorar sua experiência no terminal.&#xA;Instalação do Starship: Para instalar o Starship, siga estas etapas:&#xA;Abra o terminal no Ubuntu.&#xA;Utilize o comando curl para baixar e executar o script de instalação do Starship:</description>
     </item>
   </channel>

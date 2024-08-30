@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ubuntu on Áleson Medeiros | Blog</title>
-    <link>http://localhost:1313/pt-br/tags/ubuntu/</link>
+    <link>https://alesonmedeiros.com.br/pt-br/tags/ubuntu/</link>
     <description>Recent content in Ubuntu on Áleson Medeiros | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-br/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alesonmedeiros.com.br/pt-br/tags/ubuntu/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Como instalar e usar o Openfortivpn no Linux</title>
-      <link>http://localhost:1313/pt-br/blog/configurar-openfortivpn-no-linux/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/configurar-openfortivpn-no-linux/</link>
       <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/configurar-openfortivpn-no-linux/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/configurar-openfortivpn-no-linux/</guid>
       <description>Muitas empresas utilizam VPNs para permitir que funcionários e clientes acessem sua rede local de forma segura pela internet. Um dos provedores de VPN mais populares é a FortiNET, conhecida por seus produtos de segurança confiáveis e práticos.&#xA;No entanto, o aplicativo oficial FortiClient para Linux não permite a conexão direta a uma VPN. Por isso, muitos usuários recorrem a clientes alternativos. Após enfrentar alguns problemas com outras soluções, descobri o Openfortivpn, um cliente de código aberto para Fortinet que funciona de maneira eficiente.</description>
     </item>
     <item>
       <title>Como instalar e configurar o eza no Linux</title>
-      <link>http://localhost:1313/pt-br/blog/eza-linux-terminal/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/eza-linux-terminal/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/eza-linux-terminal/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/eza-linux-terminal/</guid>
       <description>O eza é um substituto moderno para o comando ls, com recursos avançados como cores, classificação por tipo de arquivo, ícones e outras melhorias. É uma excelente ferramenta para quem deseja aprimorar a experiência no terminal no Linux. Neste tutorial, vamos mostrar como instalar o eza e configurá-lo como substituto do comando ls, incluindo a criação de um alias.&#xA;Instalação do eza Para instalar o eza, o método pode variar dependendo da sua distribuição Linux.</description>
     </item>
     <item>
       <title>Como instalar e configurar o Starship para o Bash no Ubuntu</title>
-      <link>http://localhost:1313/pt-br/blog/starship-no-linux/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/starship-no-linux/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/starship-no-linux/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/starship-no-linux/</guid>
       <description>O Starship é um prompt de shell rápido, leve e altamente customizável, que fornece informações úteis e visualmente agradáveis diretamente no seu terminal. Neste tutorial, vamos mostrar como instalar e configurar o Starship para o Bash no Ubuntu, para que você possa personalizar e melhorar sua experiência no terminal.&#xA;Instalação do Starship: Para instalar o Starship, siga estas etapas:&#xA;Abra o terminal no Ubuntu.&#xA;Utilize o comando curl para baixar e executar o script de instalação do Starship:</description>
     </item>
   </channel>

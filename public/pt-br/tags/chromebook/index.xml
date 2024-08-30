@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chromebook on Áleson Medeiros | Blog</title>
-    <link>http://localhost:1313/pt-br/tags/chromebook/</link>
+    <link>https://alesonmedeiros.com.br/pt-br/tags/chromebook/</link>
     <description>Recent content in Chromebook on Áleson Medeiros | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-br/tags/chromebook/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alesonmedeiros.com.br/pt-br/tags/chromebook/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Como Formatar um Chromebook HP e Instalar o Windows: Tutorial Passo a Passo</title>
-      <link>http://localhost:1313/pt-br/blog/instalar-windows-chromebook/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/instalar-windows-chromebook/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/instalar-windows-chromebook/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/instalar-windows-chromebook/</guid>
       <description>Os Chromebooks oferecem um ambiente eficiente para muitos usuários, mas alguns podem desejar instalar um sistema operacional diferente, como o Windows. Neste tutorial, vamos guiar você pelo processo de formatação de um Chromebook HP e a instalação do Windows. Para isso, vamos precisar ativar o modo desenvolvedor, verificar e desativar a proteção de gravação, instalar o Coreboot e, por fim, realizar a instalação do Windows.&#xA;Passo 1: Ativando o Modo Desenvolvedor do Chromebook HP Ligue o Chromebook.</description>
     </item>
   </channel>

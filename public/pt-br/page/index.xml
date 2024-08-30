@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Áleson Medeiros | Blog</title>
-    <link>http://localhost:1313/pt-br/page/</link>
+    <link>https://alesonmedeiros.com.br/pt-br/page/</link>
     <description>Recent content in Pages on Áleson Medeiros | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sun, 10 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-br/page/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alesonmedeiros.com.br/pt-br/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sobre Mim</title>
-      <link>http://localhost:1313/pt-br/page/about/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/page/about/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/page/about/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/page/about/</guid>
       <description>Bem-vindo ao www.alesonmedeiros.com.br !&#xA;Sou Aleson Medeiros, um entusiasta de tecnologia apaixonado por explorar os intricados caminhos do universo digital. Seja bem-vindo ao meu cantinho virtual, onde compartilho minhas jornadas no vasto mundo da informática.&#xA;Meu coração bate forte pelo Linux, e sou um dedicado aprendiz das nuances desse sistema operacional de código aberto. Além disso, estou imerso no fascinante universo do Asterisk, SQL e Delphi, aprimorando minhas habilidades e construindo um conhecimento sólido nesses campos.</description>
     </item>
   </channel>

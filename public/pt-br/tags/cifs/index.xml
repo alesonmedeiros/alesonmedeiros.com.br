@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cifs on Áleson Medeiros | Blog</title>
-    <link>http://localhost:1313/pt-br/tags/cifs/</link>
+    <link>https://alesonmedeiros.com.br/pt-br/tags/cifs/</link>
     <description>Recent content in Cifs on Áleson Medeiros | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Mon, 11 Mar 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-br/tags/cifs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://alesonmedeiros.com.br/pt-br/tags/cifs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Montando Compartilhamentos de Rede Windows no Linux: Um Guia Prático</title>
-      <link>http://localhost:1313/pt-br/blog/compatilhamento-samba/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/compatilhamento-samba/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/compatilhamento-samba/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/compatilhamento-samba/</guid>
       <description>Se você já se deparou com a necessidade de acessar diretórios compartilhados do Windows em seu servidor Linux, certamente sabe que pode ser uma tarefa desafiadora. Este tutorial foi criado para simplificar esse processo, guiando você passo a passo na montagem de compartilhamentos de rede Windows (CIFS ou SMBFS) no seu ambiente Linux. Vamos direto ao ponto!&#xA;Requisitos: Antes de começarmos, certifique-se de ter os seguintes requisitos:&#xA;Acesso root no Linux.</description>
     </item>
   </channel>

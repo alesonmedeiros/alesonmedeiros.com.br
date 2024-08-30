@@ -2,94 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Áleson Medeiros | Blog</title>
-    <link>http://localhost:1313/pt-br/</link>
+    <link>https://alesonmedeiros.com.br/pt-br/</link>
     <description>Recent content on Áleson Medeiros | Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
-    <lastBuildDate>Mon, 26 Aug 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://alesonmedeiros.com.br/pt-br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Como Exibir o Menu de Contexto Completo no Windows 11</title>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/menu-contexto-completo-windows-11/</link>
+      <pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/menu-contexto-completo-windows-11/</guid>
+      <description>O Windows 11 introduziu um novo menu de contexto simplificado que aparece ao clicar com o botão direito do mouse, mas nem todos os usuários gostam dessa mudança. Se você prefere o menu de contexto completo do Windows 10, onde não precisa clicar em &amp;ldquo;Mostrar mais opções&amp;rdquo;, este tutorial vai te guiar na configuração necessária para reverter ao menu antigo.&#xA;Passos para Configuração Abrir o Editor de Registro Pressione Windows + R no seu teclado.</description>
+    </item>
     <item>
       <title>Como instalar e usar o Openfortivpn no Linux</title>
-      <link>http://localhost:1313/pt-br/blog/configurar-openfortivpn-no-linux/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/configurar-openfortivpn-no-linux/</link>
       <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/configurar-openfortivpn-no-linux/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/configurar-openfortivpn-no-linux/</guid>
       <description>Muitas empresas utilizam VPNs para permitir que funcionários e clientes acessem sua rede local de forma segura pela internet. Um dos provedores de VPN mais populares é a FortiNET, conhecida por seus produtos de segurança confiáveis e práticos.&#xA;No entanto, o aplicativo oficial FortiClient para Linux não permite a conexão direta a uma VPN. Por isso, muitos usuários recorrem a clientes alternativos. Após enfrentar alguns problemas com outras soluções, descobri o Openfortivpn, um cliente de código aberto para Fortinet que funciona de maneira eficiente.</description>
     </item>
     <item>
       <title>Como instalar e configurar o eza no Linux</title>
-      <link>http://localhost:1313/pt-br/blog/eza-linux-terminal/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/eza-linux-terminal/</link>
       <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/eza-linux-terminal/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/eza-linux-terminal/</guid>
       <description>O eza é um substituto moderno para o comando ls, com recursos avançados como cores, classificação por tipo de arquivo, ícones e outras melhorias. É uma excelente ferramenta para quem deseja aprimorar a experiência no terminal no Linux. Neste tutorial, vamos mostrar como instalar o eza e configurá-lo como substituto do comando ls, incluindo a criação de um alias.&#xA;Instalação do eza Para instalar o eza, o método pode variar dependendo da sua distribuição Linux.</description>
     </item>
     <item>
       <title>Como instalar e configurar o Terminal-Icons para o PowerShell</title>
-      <link>http://localhost:1313/pt-br/blog/terminal-icons-powershell/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/terminal-icons-powershell/</link>
       <pubDate>Tue, 21 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/terminal-icons-powershell/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/terminal-icons-powershell/</guid>
       <description>O Terminal-Icons é um módulo do PowerShell que adiciona ícones a diretórios e arquivos no terminal, facilitando a visualização e identificação. Com este módulo, você pode tornar a experiência no PowerShell mais visual e intuitiva. Neste tutorial, vamos mostrar como instalar e configurar o Terminal-Icons para o PowerShell.&#xA;Instalação do Terminal-Icons Para instalar o Terminal-Icons, siga estas etapas:&#xA;Abra o PowerShell como Administrador.&#xA;Para instalar o módulo, use o PowerShell Gallery, que é um repositório de módulos para o PowerShell.</description>
     </item>
     <item>
       <title>Como instalar e configurar o Starship para o CMD</title>
-      <link>http://localhost:1313/pt-br/blog/startship-no-cmd/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/startship-no-cmd/</link>
       <pubDate>Mon, 20 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/startship-no-cmd/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/startship-no-cmd/</guid>
       <description>O Starship é um prompt de shell rápido e personalizável, que pode ser usado tanto no PowerShell quanto no CMD. Neste tutorial, vamos mostrar como instalar e configurar o Starship para o CMD no Windows, utilizando o Clink para integrar o Starship ao CMD e aplicando o preset Gruvbox Rainbow.&#xA;Instalação do Starship Se você já instalou o Starship usando o Scoop no tutorial anterior, pode pular esta etapa. Caso contrário, siga estas instruções:</description>
     </item>
     <item>
       <title>Como instalar e configurar o Starship para o PowerShell</title>
-      <link>http://localhost:1313/pt-br/blog/startship-powershell/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/startship-powershell/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/startship-powershell/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/startship-powershell/</guid>
       <description>O Starship é um prompt de shell rápido e personalizável, que proporciona uma experiência visualmente agradável e informativa no terminal. Neste tutorial, vamos mostrar como instalar e configurar o Starship para o PowerShell no Windows, incluindo a aplicação do preset Gruvbox Rainbow.&#xA;Instalação do Starship Para instalar o Starship, siga estas etapas:&#xA;Instalar o Starship com o Scoop:&#xA;Abra o PowerShell como Administrador.&#xA;Instale o Starship usando o comando&#xA;scoop install starship Criar e configurar o perfil do PowerShell:</description>
     </item>
     <item>
       <title>Como instalar e configurar o Scoop</title>
-      <link>http://localhost:1313/pt-br/blog/instalar-scoop/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/instalar-scoop/</link>
       <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/instalar-scoop/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/instalar-scoop/</guid>
       <description>O Scoop é um gerenciador de pacotes para Windows, semelhante ao Homebrew no macOS. Com ele, é possível instalar e gerenciar uma variedade de software através da linha de comando. Neste tutorial, vamos mostrar como instalar o Scoop e usar comandos básicos para buscar e instalar pacotes.&#xA;Instalação do Scoop Para instalar o Scoop, siga estas etapas:&#xA;Abra o PowerShell como Administrador.&#xA;Digite o seguinte comando para instalar o Scoop:</description>
     </item>
     <item>
       <title>Como instalar e configurar o PowerShell no formato MSI</title>
-      <link>http://localhost:1313/pt-br/blog/instalar-powershell/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/instalar-powershell/</link>
       <pubDate>Fri, 17 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/instalar-powershell/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/instalar-powershell/</guid>
       <description>O PowerShell é uma poderosa ferramenta de linha de comando e linguagem de script para automatizar tarefas no Windows. A versão mais recente, PowerShell 7, traz diversas melhorias e recursos. Neste tutorial, vamos mostrar como instalar o PowerShell 7 usando o formato MSI, configurá-lo como o shell principal do Windows Terminal e adicionar uma fonte personalizada para melhorar a aparência do terminal.&#xA;Download (MSI) Para começar, acesse o site oficial do PowerShell para baixar o arquivo MSI da versão mais recente.</description>
     </item>
     <item>
       <title>Como instalar e configurar o Starship para o Bash no Ubuntu</title>
-      <link>http://localhost:1313/pt-br/blog/starship-no-linux/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/starship-no-linux/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/starship-no-linux/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/starship-no-linux/</guid>
       <description>O Starship é um prompt de shell rápido, leve e altamente customizável, que fornece informações úteis e visualmente agradáveis diretamente no seu terminal. Neste tutorial, vamos mostrar como instalar e configurar o Starship para o Bash no Ubuntu, para que você possa personalizar e melhorar sua experiência no terminal.&#xA;Instalação do Starship: Para instalar o Starship, siga estas etapas:&#xA;Abra o terminal no Ubuntu.&#xA;Utilize o comando curl para baixar e executar o script de instalação do Starship:</description>
     </item>
     <item>
       <title>Desbravando o Mundo das ISOs Personalizadas com Penguins&#39; Eggs</title>
-      <link>http://localhost:1313/pt-br/blog/penguin-eggs/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/penguin-eggs/</link>
       <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/penguin-eggs/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/penguin-eggs/</guid>
       <description>No vasto universo do Linux, personalizar e criar sua própria distribuição pode parecer uma tarefa complexa e desafiadora. Entretanto, a ferramenta Penguins&amp;amp;rsquo; Eggs surge como uma solução inovadora para simplificar esse processo, permitindo que usuários criem suas ISOs de instalação com base em clones de seus sistemas. Neste artigo, exploraremos como utilizar essa ferramenta, com enfoque especial no processo para sistemas Debian, Devuan, Ubuntu e suas derivações.&#xA;Como Usar o Script: A utilização do Penguins&amp;rsquo; Eggs é tão intuitiva quanto eficiente.</description>
     </item>
     <item>
       <title>Como Formatar um Chromebook HP e Instalar o Windows: Tutorial Passo a Passo</title>
-      <link>http://localhost:1313/pt-br/blog/instalar-windows-chromebook/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/instalar-windows-chromebook/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/instalar-windows-chromebook/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/instalar-windows-chromebook/</guid>
       <description>Os Chromebooks oferecem um ambiente eficiente para muitos usuários, mas alguns podem desejar instalar um sistema operacional diferente, como o Windows. Neste tutorial, vamos guiar você pelo processo de formatação de um Chromebook HP e a instalação do Windows. Para isso, vamos precisar ativar o modo desenvolvedor, verificar e desativar a proteção de gravação, instalar o Coreboot e, por fim, realizar a instalação do Windows.&#xA;Passo 1: Ativando o Modo Desenvolvedor do Chromebook HP Ligue o Chromebook.</description>
     </item>
     <item>
       <title>Montando Compartilhamentos de Rede Windows no Linux: Um Guia Prático</title>
-      <link>http://localhost:1313/pt-br/blog/compatilhamento-samba/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/blog/compatilhamento-samba/</link>
       <pubDate>Mon, 11 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/blog/compatilhamento-samba/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/blog/compatilhamento-samba/</guid>
       <description>Se você já se deparou com a necessidade de acessar diretórios compartilhados do Windows em seu servidor Linux, certamente sabe que pode ser uma tarefa desafiadora. Este tutorial foi criado para simplificar esse processo, guiando você passo a passo na montagem de compartilhamentos de rede Windows (CIFS ou SMBFS) no seu ambiente Linux. Vamos direto ao ponto!&#xA;Requisitos: Antes de começarmos, certifique-se de ter os seguintes requisitos:&#xA;Acesso root no Linux.</description>
     </item>
     <item>
       <title>Sobre Mim</title>
-      <link>http://localhost:1313/pt-br/page/about/</link>
+      <link>https://alesonmedeiros.com.br/pt-br/page/about/</link>
       <pubDate>Sun, 10 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt-br/page/about/</guid>
+      <guid>https://alesonmedeiros.com.br/pt-br/page/about/</guid>
       <description>Bem-vindo ao www.alesonmedeiros.com.br !&#xA;Sou Aleson Medeiros, um entusiasta de tecnologia apaixonado por explorar os intricados caminhos do universo digital. Seja bem-vindo ao meu cantinho virtual, onde compartilho minhas jornadas no vasto mundo da informática.&#xA;Meu coração bate forte pelo Linux, e sou um dedicado aprendiz das nuances desse sistema operacional de código aberto. Além disso, estou imerso no fascinante universo do Asterisk, SQL e Delphi, aprimorando minhas habilidades e construindo um conhecimento sólido nesses campos.</description>
     </item>
   </channel>
